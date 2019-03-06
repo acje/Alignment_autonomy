@@ -16,7 +16,7 @@ The line labeled "Pareto efficient autonomy and alignment" and the labels "ineff
 
 The labels "Pioneer", "Settlers" and "Town planners" are taken from Simon Wardley.
 
+The goal, or conclusion, is to bridge the models of Stephen Bungay and Simon Wardley, adding dependency between the axis to the mix.
+
 Things I'm not happy about:
 - The venn-diagram component doesn't feel right. But dropping it makes the model less clear as it stands now.
-
-The goal, or conclusion, is to bridge the models of Stephen Bungay and Simon Wardley, adding dependency between the axis to the mix.
