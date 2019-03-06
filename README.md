@@ -4,7 +4,7 @@ Made with https://draw.io
 
 ![drawing](https://github.com/acje/Alignment_autonomy/blob/master/Pareto%20efficient%20autonomy%20and%20alignment.png)
 
-The story behind the model:
+# The story behind the model
 
 Stephen Bungay in his book "The Art of Action: How Leaders Close the Gaps between Plans, Actions and Results", claims that alignment and autonomy are (at least somewhat) independent. That is, you can have some of both, and it isn't always a tradeoff. This made me think of Andrew Clay Shafer and his claim that we are operating in Pareto Inefficient Nash Equilibriums. This model doesn't try to identify or explain those Nash Equilibriums, however the pareto inefficiency in relation to some command structures are shown.
 
