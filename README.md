@@ -2,7 +2,10 @@
 
 Made with https://draw.io
 
-![drawing](https://github.com/acje/Alignment_autonomy/blob/master/Pareto%20efficient%20autonomy%20and%20alignment.png)
+Note: In version 2 of the model I have loosened the coupling between Pioneers, Settlers, Town Planners and the management paradigms.
+
+
+![drawing](https://github.com/acje/Alignment_autonomy/blob/master/Pareto%20efficient%20autonomy%20and%20alignment%20v2.png)
 
 # The story behind the model
 
